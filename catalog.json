@@ -2,7 +2,7 @@
   "format": 1,
   "repository": "terabraincs/Asset_main",
   "assetBaseUrl": "https://raw.githubusercontent.com/terabraincs/Asset_main/main",
-  "bytes": 252681384,
+  "bytes": 252708006,
   "files": [
     {
       "path": "collection/emblem/AB_INVEN_ICON_IMI_ITEM_EMBLEM_BASIC_1ST_ANNIVERSARY.png",
@@ -15519,6 +15519,18 @@
       "bytes": 8343,
       "sha256": "a298ecbbec551f7a5742c803c73b434958a8608df55e540cab3b8050c7954f26",
       "gitBlob": "6b36673af297cf0f2f31f33157d24ba789aa9ca4"
+    },
+    {
+      "path": "unit/unit_bg/UNIT_SLOT_CONTRACT_FX_BG_SR_AWAKEN.png",
+      "bytes": 6170,
+      "sha256": "b5341b3467b8b0f587d2062120b41567280440be0f9e71611e52207ad4e6b19f",
+      "gitBlob": "51935b23acf7d8bfc61710685ee8e31e9bbd6d7e"
+    },
+    {
+      "path": "unit/unit_bg/UNIT_SLOT_CONTRACT_FX_BG_SSR_AWAKEN.png",
+      "bytes": 20452,
+      "sha256": "e59a77d0ff39f0c1f537cbdd24bf608efd852965f176a78338062bf8e5c4b97d",
+      "gitBlob": "d33faabddaea64af4415e32af76fd57a2cc63752"
     },
     {
       "path": "unit/unit_face/AB_UNIT_FACE_CARD_NKM_UNIT_C_YOO_MI_NA_RA.png",
