@@ -2,7 +2,7 @@
   "format": 1,
   "repository": "terabraincs/Asset_main",
   "assetBaseUrl": "https://raw.githubusercontent.com/terabraincs/Asset_main/main",
-  "bytes": 2030229212,
+  "bytes": 2030395304,
   "files": [
     {
       "path": "collection/emblem/AB_INVEN_ICON_IMI_ITEM_EMBLEM_BASIC_1ST_ANNIVERSARY.png",
@@ -9477,6 +9477,12 @@
       "bytes": 100161,
       "sha256": "ae8c6a3a066ca5e0b12709924635a1da3df98bc9f8699abb5f9cbcad9baa8d12",
       "gitBlob": "f6a112de967fdaf663717f9bb814a0c538df3f5a"
+    },
+    {
+      "path": "collection/trophy/thumbnails/12279.png",
+      "bytes": 166092,
+      "sha256": "0f9eab37ab3888fc26cd6df6e15540afdedfe62c16f86947f9ebaa7b7450817d",
+      "gitBlob": "665b398cfa209a665e1f9a59962967a203642c2b"
     },
     {
       "path": "collection/trophy/ui/NKM_UI_UNIT_SELECT_LIST_TAP_ICON_TROPHY.png",
